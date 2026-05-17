@@ -3,7 +3,8 @@
 **Cours** : Programmation Mobile — Android avec Java
 
 ---
-
+**Auteur** : MADILI Kenza
+---
 ## 🎯 Objectifs
 
 - Comprendre pourquoi une variable classique est perdue à chaque rotation d'écran
